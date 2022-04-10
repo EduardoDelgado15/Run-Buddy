@@ -1,3 +1,2 @@
-# Run-buddy
 
-# Run-buddy
+# Run-Buddy-Gym
